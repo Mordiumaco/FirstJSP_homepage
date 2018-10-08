@@ -1,0 +1,12 @@
+@import url('http://fonts.googleapis.com/css?family=Nanum+Gothic');
+
+
+
+	 * {	
+		
+		font-family: 'Nanum Gothic' !important;
+	}
+	
+	/*
+	!important를 적용하면 무조건 적용됨
+*/
